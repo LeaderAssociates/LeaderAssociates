@@ -1,4 +1,4 @@
-# LeaderAssociates
+# Leader Associates
 
 ### `About Us 👋`
 
